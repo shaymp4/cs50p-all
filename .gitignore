@@ -1,0 +1,23 @@
+# Ignore PyCharm project files
+.idea/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore macOS system files (in case you’re on Mac)
+.DS_Store
+
+# Ignore virtual environment folders
+venv/
+.env/
+env/
+
+# Ignore Jupyter Notebook checkpoints (if you use notebooks)
+.ipynb_checkpoints/
+
+# Ignore any temporary files
+*.tmp
+*.log
